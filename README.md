@@ -1,2 +1,5 @@
-# HojaTrabajo02-CienciaDatosPython
-Hola de trabajo número 2. Universidad Galileo. 
+# Hoja de trabajo 2
+## Ciencia de datos en Python
+## Universidad Galileo
+## **Alejandro Chacon - Carnet: 21000766**
+
